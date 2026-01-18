@@ -1,0 +1,149 @@
+[
+        {
+            "question": "A rectangle has a length of 3x meters and a width of (x + 2) meters. If the perimeter is 56 meters, what is the value of x?",
+            "answer": "4",
+            "translation": {
+                "de": "Ein Rechteck hat eine Länge von 3x Metern und eine Breite von (x + 2) Metern. Wenn der Umfang 56 Meter beträgt, wie groß ist der Wert von x?"
+            }
+        },
+        {
+            "question": "A sum of money is divided among three people in the ratio 2:3:5. If the largest share is $100, what is the total sum of money?",
+            "answer": "200",
+            "translation": {
+                "de": "Eine Geldsumme wird im Verhältnis 2:3:5 auf drei Personen aufgeteilt. Wenn der größte Anteil 100 $ beträgt, wie hoch ist die Gesamtsumme?"
+            }
+        },
+        {
+            "question": "A car travels 150 km in 3 hours. If it increases its speed by 20 km/h, how much time will it take to travel the same distance?",
+            "answer": "2.5 hours",
+            "translation": {
+                "de": "Ein Auto fährt 150 km in 3 Stunden. Wenn es seine Geschwindigkeit um 20 km/h erhöht, wie lange wird es brauchen, um die gleiche Strecke zu fahren?"
+            }
+        },
+        {
+            "question": "A store increases the price of a $60 item by 20%. Afterward, they offer a 10% discount on the new price. What is the final price?",
+            "answer": "64.8",
+            "translation": {
+                "de": "Ein Geschäft erhöht den Preis eines Artikels von 60 $ um 20 %. Danach gewähren sie einen Rabatt von 10 % auf den neuen Preis. Wie hoch ist der Endpreis?"
+            }
+        },
+        {
+            "question": "A person spends 25% of their income on rent and 30% on food. If they save $900, which is the remaining 45%, what is their total income?",
+            "answer": "2000",
+            "translation": {
+                "de": "Eine Person gibt 25 % ihres Einkommens für Miete und 30 % für Lebensmittel aus. Wenn sie 900 $ spart, was 45 % entspricht, wie hoch ist ihr Gesamteinkommen?"
+            }
+        },
+        {
+            "question": "A man buys 20 shares of a company at $50 each. If the company declares a 12% dividend, how much will he earn?",
+            "answer": "120",
+            "translation": {
+                "de": "Ein Mann kauft 20 Aktien eines Unternehmens zu je 50 $. Wenn das Unternehmen eine Dividende von 12 % ausschüttet, wie viel wird er verdienen?"
+            }
+        },
+        {
+            "question": "If the volume of a cylinder is 154 cubic cm and its height is 7 cm, what is the radius of its base? (Use π = 22/7)",
+            "answer": "3",
+            "translation": {
+                "de": "Wenn das Volumen eines Zylinders 154 cm³ beträgt und seine Höhe 7 cm ist, wie groß ist der Radius seiner Basis? (Verwenden Sie π = 22/7)"
+            }
+        },
+        {
+            "question": "A train travels 180 km at a speed of 90 km/h. It then travels another 120 km at a speed of 60 km/h. What is the average speed of the train for the entire journey?",
+            "answer": "72",
+            "translation": {
+                "de": "Ein Zug fährt 180 km mit einer Geschwindigkeit von 90 km/h. Danach fährt er weitere 120 km mit einer Geschwindigkeit von 60 km/h. Wie hoch ist die Durchschnittsgeschwindigkeit des Zuges für die gesamte Strecke?"
+            }
+        },
+        {
+            "question": "A man invests $10,000 at a simple interest rate of 5% per year. How much interest will he earn in 3 years?",
+            "answer": "1500",
+            "translation": {
+                "de": "Ein Mann investiert 10.000 $ zu einem einfachen Zinssatz von 5 % pro Jahr. Wie viel Zinsen wird er in 3 Jahren verdienen?"
+            }
+        },
+        {
+            "question": "The price of an item increases by 10% each year. If the initial price was $100, what will it be after 2 years?",
+            "answer": "121",
+            "translation": {
+                "de": "Der Preis eines Artikels steigt jedes Jahr um 10 %. Wenn der Anfangspreis 100 $ betrug, wie hoch wird er nach 2 Jahren sein?"
+            }
+        },
+        {
+            "question": "A car’s fuel tank can hold 50 liters. If the car consumes 8 liters per 100 km, how far can it travel on a full tank?",
+            "answer": "625",
+            "translation": {
+                "de": "Ein Autotank fasst 50 Liter. Wenn das Auto 8 Liter pro 100 km verbraucht, wie weit kann es mit vollem Tank fahren?"
+            }
+        },
+        {
+            "question": "A person buys a TV for $800 and sells it at a profit of 25%. What is the selling price?",
+            "answer": "1000",
+            "translation": {
+                "de": "Eine Person kauft einen Fernseher für 800 $ und verkauft ihn mit einem Gewinn von 25 %. Wie hoch ist der Verkaufspreis?"
+            }
+        },
+        {
+            "question": "A shopkeeper sells an article at a loss of 10%. If the cost price was $500, what was the selling price?",
+            "answer": "450",
+            "translation": {
+                "de": "Ein Ladenbesitzer verkauft einen Artikel mit einem Verlust von 10 %. Wenn der Kostenpreis 500 $ betrug, wie hoch war der Verkaufspreis?"
+            }
+        },
+        {
+            "question": "The population of a city increases by 5% annually. If the current population is 100,000, what will it be in 2 years?",
+            "answer": "110250",
+            "translation": {
+                "de": "Die Bevölkerung einer Stadt wächst jährlich um 5 %. Wenn die aktuelle Bevölkerung 100.000 beträgt, wie hoch wird sie in 2 Jahren sein?"
+            }
+        },
+        {
+            "question": "If a number is multiplied by 3 and then reduced by 4, the result is 26. What is the number?",
+            "answer": "10",
+            "translation": {
+                "de": "Wenn eine Zahl mit 3 multipliziert und dann um 4 reduziert wird, ergibt sich 26. Wie lautet die Zahl?"
+            }
+        },
+        {
+            "question": "A rectangle has a length of (x + 5) meters and a width of (x - 3) meters. If its area is 60 square meters, find the value of x.",
+            "answer": "8",
+            "translation": {
+                "de": "Ein Rechteck hat eine Länge von (x + 5) Metern und eine Breite von (x - 3) Metern. Wenn seine Fläche 60 Quadratmeter beträgt, wie groß ist der Wert von x?"
+            }
+        },
+        {
+            "question": "A tank is filled at a rate of 40 liters per minute. If the tank is 75% full after 30 minutes, what is the total capacity of the tank?",
+            "answer": "1600",
+            "translation": {
+                "de": "Ein Tank wird mit einer Geschwindigkeit von 40 Litern pro Minute gefüllt. Wenn der Tank nach 30 Minuten zu 75 % gefüllt ist, wie groß ist die Gesamtkapazität des Tanks?"
+            }
+        },
+        {
+            "question": "A car travels 100 km at a speed of 50 km/h, and the next 100 km at a speed of 100 km/h. What is the average speed for the entire journey?",
+            "answer": "66.67",
+            "translation": {
+                "de": "Ein Auto fährt 100 km mit einer Geschwindigkeit von 50 km/h und die nächsten 100 km mit einer Geschwindigkeit von 100 km/h. Wie hoch ist die Durchschnittsgeschwindigkeit für die gesamte Strecke?"
+            }
+        },
+        {
+            "question": "A shopkeeper sells an article at a 20% profit. If the cost price is $50, what is the selling price? What is the final price?",
+            "answer": "60",
+            "translation": {
+                "de": "Ein Ladenbesitzer verkauft einen Artikel mit einem Gewinn von 20 %. Wenn der Kostenpreis 50 $ beträgt, wie hoch ist der Verkaufspreis? Außerdem, wenn er einen Rabatt von 10 % auf den Verkaufspreis gibt, wie hoch ist der Endpreis?"
+            }
+        },
+        {
+            "question": "A car’s value depreciates by 20% per year. If its current value is $12,800, what was its value two years ago?",
+            "answer": "20,000",
+            "translation": {
+                "de": "Der Wert eines Autos sinkt um 20 % pro Jahr. Wenn der aktuelle Wert 12.800 $ beträgt, wie hoch war sein Wert vor zwei Jahren?"
+            }
+        },
+        {
+            "question": "If a number is divided by 6, the quotient is 7, and the remainder is 4. What is the number?",
+            "answer": "46",
+            "translation": {
+                "de": "Wenn eine Zahl durch 6 geteilt wird, beträgt der Quotient 7 und der Rest 4. Wie lautet die Zahl?"
+            }
+        }
+    ]

@@ -1,0 +1,130 @@
+[
+    {
+        "question": "A sphere has a radius of 6 cm. What is its volume? (Use π = 3.14)",
+        "answer": "904.32",
+        "distractors": ["905.32", "804.33", "902.32"],
+        "translation": {
+            "de": "Eine Kugel hat einen Radius von 6 cm. Wie groß ist ihr Volumen? (Verwenden Sie π = 3,14)"
+        }
+    },
+    {
+        "question": "The diagonal of a rectangle is 25 cm and one side is 15 cm. What is the length of the other side?",
+        "answer": "20",
+        "distractors": ["15", "30", "25"],
+        "translation": {
+            "de": "Die Diagonale eines Rechtecks beträgt 25 cm und eine Seite 15 cm. Wie lang ist die andere Seite?"
+        }
+    },
+    {
+        "question": "A bank offers 8% compound interest annually. How much will $5000 grow to in 2 years?",
+        "answer": "5832",
+        "distractors": ["5830", "6834", "4970"],
+        "translation": {
+            "de": "Eine Bank bietet 8% Zinseszins pro Jahr. Auf wie viel wird sich ein Betrag von 5000 $ in 2 Jahren erhöhen?"
+        }
+    },
+    {
+        "question": "Two pipes can fill a tank in 12 and 15 hours respectively. How long will they take to fill the tank together?",
+        "answer": "6.67",
+        "distractors": ["5.55", "6.80", "7.00"],
+        "translation": {
+            "de": "Zwei Rohre können einen Tank in 12 bzw. 15 Stunden füllen. Wie lange brauchen sie zusammen, um den Tank zu füllen?"
+        }
+    },
+    {
+        "question": "In a class of 50 students, 60% are girls. How many boys are there?",
+        "answer": "20",
+        "distractors": ["15", "25", "30"],
+        "translation": {
+            "de": "In einer Klasse von 50 Schülern sind 60% Mädchen. Wie viele Jungen gibt es?"
+        }
+    },
+    {
+        "question": "A cone has a radius of 5 cm and a height of 12 cm. What is its volume? (Use π = 3.14)",
+        "answer": "314",
+        "distractors": ["413", "341", "334"],
+        "translation": {
+            "de": "Ein Kegel hat einen Radius von 5 cm und eine Höhe von 12 cm. Wie groß ist sein Volumen? (Verwenden Sie π = 3,14)"
+        }
+    },
+    {
+        "question": "If 3x + 4 = 25, what is x?",
+        "answer": "7",
+        "distractors": ["5", "6", "8"],
+        "translation": {
+            "de": "Wenn 3x + 4 = 25, wie lautet x?"
+        }
+    },
+    {
+        "question": "A factory produces 400 items in 8 hours. How many items will it produce in 32 hours?",
+        "answer": "1600",
+        "distractors": ["1800", "1200", "2000"],
+        "translation": {
+            "de": "Eine Fabrik produziert 400 Artikel in 8 Stunden. Wie viele Artikel wird sie in 30 Stunden produzieren?"
+        }
+    },
+    {
+        "question": "The area of a triangle is 84 cm². If its base is 14 cm, what is its height?",
+        "answer": "12",
+        "distractors": ["14", "16", "18"],
+        "translation": {
+            "de": "Die Fläche eines Dreiecks beträgt 84 cm². Wenn seine Basis 14 cm beträgt, wie groß ist seine Höhe?"
+        }
+    },
+    {
+        "question": "If the cost of 12 pens is $36, what is the cost of 5 dozen pens?",
+        "answer": "180",
+        "distractors": ["150", "195", "170"],
+        "translation": {
+            "de": "Wenn 12 Stifte 36 $ kosten, wie viel kosten 5 Dutzend Stifte?"
+        }
+    },
+    {
+        "question": "The perimeter of a square is equal to the perimeter of a rectangle of length 16 cm and width 14 cm. What is the area of the square?",
+        "answer": "225",
+        "distractors": ["224", "250", "226"],
+        "translation": {
+            "de": "Der Umfang eines Quadrats ist gleich dem Umfang eines Rechtecks mit einer Länge von 16 cm und einer Breite von 14 cm. Wie groß ist die Fläche des Quadrats?"
+        }
+    },
+    {
+        "question": "A sum of $800 is divided among A, B, and C in the ratio 2:5:3. How much does B get?",
+        "answer": "400",
+        "distractors": ["500", "300", "200"],
+        "translation": {
+            "de": "Ein Betrag von 800 $ wird im Verhältnis 2:5:3 zwischen A, B und C aufgeteilt. Wie viel erhält B?"
+        }
+    },
+    {
+        "question": "The average of 8 numbers is 20. If two more numbers, both 15, are added, what is the new average?",
+        "answer": "19",
+        "distractors": ["18", "21", "22"],
+        "translation": {
+            "de": "Der Durchschnitt von 8 Zahlen beträgt 20. Wenn zwei weitere Zahlen, beide 15, hinzugefügt werden, wie hoch ist der neue Durchschnitt?"
+        }
+    },
+    {
+        "question": "A circular track has a radius of 28 meters. How many rounds must an athlete run to cover 1 km? (Use π = 22/7)",
+        "answer": "6",
+        "distractors": ["5", "7", "8"],
+        "translation": {
+            "de": "Eine kreisförmige Laufbahn hat einen Radius von 28 Metern. Wie viele Runden muss ein Athlet laufen, um 1 km zurückzulegen? (Verwenden Sie π = 22/7)"
+        }
+    },
+    {
+        "question": "A shopkeeper offers successive discounts of 20% and 10%. What is the effective single discount percentage?",
+        "answer": "28",
+        "distractors": ["25", "30", "32"],
+        "translation": {
+            "de": "Ein Ladenbesitzer bietet aufeinanderfolgende Rabatte von 20% und 10%. Wie hoch ist der effektive Gesamtrabatt in Prozent?"
+        }
+    },
+    {
+        "question": "The probability of an event is 0.35. What is the probability of its non-occurrence?",
+        "answer": "0.65",
+        "distractors": ["0.75", "0.60", "0.55"],
+        "translation": {
+            "de": "Die Wahrscheinlichkeit eines Ereignisses beträgt 0,35. Wie hoch ist die Wahrscheinlichkeit seines Nicht-Eintretens?"
+        }
+    }
+]
