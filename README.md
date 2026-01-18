@@ -1,6 +1,6 @@
-# Full-Stack Quiz Application
+# Quiz Application
 
-A lightweight full-stack application built with React frontend and Flask backend, designed for model evaluation.
+designed for model evaluation.
 
 ## Architecture
 
